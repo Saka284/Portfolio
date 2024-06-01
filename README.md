@@ -1,7 +1,7 @@
 # Portfolio
 Example data science portfolio
 
-## [Project 1: IMDB Dataset Analysis](https://github.com/yourusername/IMDB-Dataset-Analysis)
+## Project 1: IMDB Dataset Analysis
 - Analyzed IMDB Top 250 movies dataset using Python in Google Colab.
 - Cleaned data by converting dates, standardizing currency values, and handling missing values.
 - Conducted EDA to visualize rating distributions, release year trends, and budget vs. earnings comparisons.

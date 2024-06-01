@@ -1,5 +1,4 @@
-# Portfolio
-Example data science portfolio
+Saka Wijaya Portfolio
 
 ## Project 1: IMDB Dataset Analysis
 - Analyzed IMDB Top 250 movies dataset using Python in Google Colab.

@@ -8,4 +8,4 @@ Example data science portfolio
 - Visualized key insights using histograms, line charts, bar charts, and scatter plots.
 - Found that high budgets don't guarantee high earnings, factors like storyline and cast are crucial.
 
-Full project on [github](https://github.com/Saka284/imdb-dataset-analysis.git)
+Full project on [IMDB Analysis](https://github.com/Saka284/imdb-dataset-analysis.git)

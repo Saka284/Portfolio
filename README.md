@@ -1,4 +1,4 @@
-Hallo,
+Hello👋,
 
 Welcome to my portfolio! My name is Saka Wijaya, and I have a strong interest in the field of Data Science and am always eager to learn and develop my skills in this area. Below, you will find an overview of some of the projects I have worked on, showcasing my skills in data analysis, machine learning, and visualization.
 

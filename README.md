@@ -1,5 +1,36 @@
-Saka Wijaya Portfolio
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        line-height: 1.6;
+    }
 
+    header {
+        background: #333;
+        color: #fff;
+        padding: 20px 0;
+        text-align: center;
+    }
+
+    header h1 {
+        margin: 0;
+    }
+
+    .content {
+        padding: 20px;
+    }
+
+    .content h1 {
+        color: #333;
+    }
+
+    .content img {
+        max-width: 100%;
+    }
+</style>
+
+<header>
+    <h1>Saka Wijaya Portfolio</h1>
+</header>
 ## Project 1: IMDB Dataset Analysis
 - Analyzed IMDB Top 250 movies dataset using Python in Google Colab.
 - Cleaned data by converting dates, standardizing currency values, and handling missing values.

@@ -13,6 +13,7 @@ Corelation between world wide gorss and Bugdet films
 
 Full project on [IMDB Analysis](https://github.com/Saka284/imdb-dataset-analysis.git)
 
+
 ## Project 2: Heart Disease Classification using Random Forest
 - Developed a machine learning model to classify the presence of heart disease using Python.
 - Performed data cleaning and preprocessing, including handling missing values and scaling numerical features.
@@ -21,6 +22,7 @@ Full project on [IMDB Analysis](https://github.com/Saka284/imdb-dataset-analysis
 - Demonstrated the effectiveness of the Random Forest model in classifying heart disease presence, indicating its suitability for similar tasks.
 
 Full project on [Heart Disease Classification using Random Forest](https://github.com/Saka284/Heart-disease_Random-forest-classifier.git)
+
 
 ## Project 3: Electricity Consumption Forecasting using XGBoostregressor
 This project involves forecasting electricity consumption for the next year using machine learning techniques, specifically the XGBoost regressor. The dataset used for this analysis includes various factors such as consumption, production, nuclear energy, wind energy, hydroelectric power, oil and gas consumption, coal consumption, solar energy, and biomass energy.
@@ -31,6 +33,7 @@ The XGBoost regressor model used in this analysis achieved a percentage error of
 
 Full Project on [Electricity Consumption Forecasting](https://github.com/Saka284/Electricity-consumption-forecasting.git)
 
+
 ## Project 4: OWID Covid 19 Analysis
 This project involves performing Exploratory Data Analysis (EDA) on the Our World in Data COVID-19 dataset using Python. The analysis includes data exploration, data cleaning, and visualization. Additionally, a dashboard is created using Google Looker Studio to visualize the insights derived from the dataset. The dashboard provides information on which country has the highest total cases, daily cases, the comparison between deaths and total cases, and the comparison between population and vaccination rates in each country.
 Dashboard link [here](https://lookerstudio.google.com/reporting/b4c1d903-97da-47ca-bafd-d8d4a20687f8).
@@ -39,9 +42,11 @@ Dashboard link [here](https://lookerstudio.google.com/reporting/b4c1d903-97da-47
 
 Full Project on [OWID covid 19](https://github.com/Saka284/owid-covid19-analysis.git)
 
+
 ## Project 5: Supermarket Sales Analysis
 This project involves performing Exploratory Data Analysis (EDA) on the Supermarket Sales dataset using Python. The analysis includes data exploration, data cleaning, and deriving insights from the dataset. With this project, we can determine the number of transactions from January to March, customer payment habits, the number of male and female customers, whether customers are members or not, and identify the target customers for each product line. These insights can be used by the company to optimize inventory management, tailor marketing strategies, enhance customer satisfaction, and ultimately drive sales growth.
 
 ![image](https://github.com/Saka284/Portfolio/assets/97392722/6b6c4d97-9876-4d47-af0c-7f6d492fd419)
 
 Full project on [Supermarket Sales](https://github.com/Saka284/Supermarket-sales-analysis.git)
+

@@ -17,3 +17,10 @@ Full project on [IMDB Analysis](https://github.com/Saka284/imdb-dataset-analysis
 - Demonstrated the effectiveness of the Random Forest model in classifying heart disease presence, indicating its suitability for similar tasks.
 
 Full project on [Heart Disease Classification using Random Forest](https://github.com/Saka284/Heart-disease_Random-forest-classifier.git)
+
+## Project 3: Electricity Consumption Forecasting using XGBoostregressor
+This project involves forecasting electricity consumption using machine learning techniques, specifically the XGBoost regressor. The dataset used for this analysis includes various factors such as consumption, production, nuclear energy, wind energy, hydroelectric power, oil and gas consumption, coal consumption, solar energy, and biomass energy.
+### Results
+The XGBoost regressor model used in this analysis achieved a percentage error of 6.1507% in forecasting electricity consumption
+![image](https://github.com/Saka284/Portfolio/assets/97392722/89d4439e-64ec-40a4-a3bb-f0f7b67eb61e)
+

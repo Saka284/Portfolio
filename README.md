@@ -1,36 +1,7 @@
-<style>
-    body {
-        font-family: Arial, sans-serif;
-        line-height: 1.6;
-    }
+Hallo,
 
-    header {
-        background: #333;
-        color: #fff;
-        padding: 20px 0;
-        text-align: center;
-    }
+Welcome to my portfolio! My name is Saka Wijaya, and I have a strong interest in the field of Data Science and am always eager to learn and develop my skills in this area. Below, you will find an overview of some of the projects I have worked on, showcasing my skills in data analysis, machine learning, and visualization.
 
-    header h1 {
-        margin: 0;
-    }
-
-    .content {
-        padding: 20px;
-    }
-
-    .content h1 {
-        color: #333;
-    }
-
-    .content img {
-        max-width: 100%;
-    }
-</style>
-
-<header>
-    <h1>Saka Wijaya Portfolio</h1>
-</header>
 ## Project 1: IMDB Dataset Analysis
 - Analyzed IMDB Top 250 movies dataset using Python in Google Colab.
 - Cleaned data by converting dates, standardizing currency values, and handling missing values.

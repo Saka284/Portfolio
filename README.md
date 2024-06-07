@@ -26,6 +26,7 @@ Full project on [IMDB Analysis](https://github.com/Saka284/imdb-dataset-analysis
 - Demonstrated the effectiveness of the Random Forest model in classifying heart disease presence, indicating its suitability for similar tasks.
 
 ### Hasil
+
 | Metrics    | Score     |
 |------------|-----------|
 | Accuracy   | 0.883333  |

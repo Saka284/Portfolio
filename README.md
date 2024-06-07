@@ -25,6 +25,14 @@ Full project on [IMDB Analysis](https://github.com/Saka284/imdb-dataset-analysis
 - Trained and evaluated models, with Random Forest achieving the best performance (Accuracy: 88.3%, Precision: 88.3%, Recall: 88.3%, F1 Score: 88.3%).
 - Demonstrated the effectiveness of the Random Forest model in classifying heart disease presence, indicating its suitability for similar tasks.
 
+###Hasil
+| Metrics    | Score     |
+|------------|-----------|
+| Accuracy   | 0.883333  |
+| Precision  | 0.882961  |
+| Recall     | 0.883333  |
+| F1 Score   | 0.882891  |
+
 Full project on [Heart Disease Classification using Random Forest](https://github.com/Saka284/Heart-disease_Random-forest-classifier.git)
 
 

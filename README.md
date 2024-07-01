@@ -26,10 +26,10 @@ Full Project on [Analyzing Flight Booking Websites](https://github.com/Saka284/A
 
 ## Project 2: OWID Covid 19 Analysis
 This project involves performing Exploratory Data Analysis (EDA) on the Our World in Data COVID-19 dataset using Python. The analysis includes data exploration, data cleaning, and visualization. Additionally, a dashboard is created using Google Looker Studio to visualize the insights derived from the dataset. The dashboard provides information on which country has the highest total cases, daily cases, the comparison between deaths and total cases, and the comparison between population and vaccination rates in each country.
-Dashboard link [here](https://lookerstudio.google.com/reporting/b4c1d903-97da-47ca-bafd-d8d4a20687f8).
 
 ![image](https://github.com/Saka284/Portfolio/assets/97392722/a867163f-5588-4082-adee-8f2936109db5)
 
+Dashboard link [here](https://lookerstudio.google.com/reporting/b4c1d903-97da-47ca-bafd-d8d4a20687f8).
 Full Project on [OWID covid 19](https://github.com/Saka284/owid-covid19-analysis.git)
 
 
